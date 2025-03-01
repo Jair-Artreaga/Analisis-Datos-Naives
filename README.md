@@ -40,8 +40,6 @@ Para ejecutar el proyecto, necesitas tener instalado:
   pip install notebook
   ```
 
-
-
 ## Uso
 1. Clona este repositorio:
    ```bash
